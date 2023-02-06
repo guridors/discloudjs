@@ -1,0 +1,17 @@
+{
+  "name": "discloudjs",
+  "version": "0.0.1",
+  "description": "JavaScript Discloud API wrapper",
+  "main": "lib/index.js",
+  "type": "module",
+  "author": "4rth8",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "husky": "^8.0.3"
+  }
+}
