@@ -4,8 +4,13 @@
   "description": "JavaScript Discloud API wrapper",
   "main": "lib/index.js",
   "type": "module",
-  "author": "4rth8",
+  "author": "4rth8 <122944216+4rth8@users.noreply.github.com>",
   "license": "GPL-3.0",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "prepare": "husky install"
+  },
   "devDependencies": {
     "eslint": "^8.33.0",
     "eslint-config-standard": "^17.0.0",
